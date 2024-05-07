@@ -35,8 +35,3 @@ In conclusion, the comparative analysis between August 2022 and August 2023 reve
 3. **Peak Riding Hours**: Analysis of ride patterns unveils that the most popular time to utilize Citi Bikes is between 5-6 PM. This peak hour signifies a significant portion of riders utilizing the bikes, likely attributed to commuting purposes or recreational activities during the evening hours.
 
 These insights offer valuable implications for the New York Citi Bike program, informing strategies to accommodate the growing demand, optimize membership offerings, and enhance service accessibility during peak hours. By leveraging these findings, city officials and stakeholders can make informed decisions to further strengthen and promote the Citi Bike initiative, ensuring its continued success in serving the transportation needs of New Yorkers.
-
-
-
-
-
