@@ -26,6 +26,9 @@ To get started with the Citi Bike Ride Analysis Challenge, follow these steps:
 
 **Tableau**: To create visualizations, dashboards and a story to be presented to the Citi Bike stakeholders.
 
+## Work
+https://public.tableau.com/views/Aug2022-2023_17151151610090/RideAnalyzer?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
 ## Conclusion
 
 In conclusion, the comparative analysis between August 2022 and August 2023 reveals several notable trends within the New York Citi Bike program:
